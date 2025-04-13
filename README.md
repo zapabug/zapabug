@@ -5,7 +5,7 @@
     💞️ I’m looking to develop a bar & restaurant btc pay plugin for cx intreation.
     📫 How to reach me
     😄 Pronouns: Debug this bug!
-    ⚡ Fun fact: Everithing usefull will be built on Bitcoin and will integrate seemlessly in NOSTR!
+    ⚡ Fun fact: Everithing usefull will be built on Bitcoin and will integrate seemlessly with NOSTR!
 
 
 <!---
